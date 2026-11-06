@@ -1,0 +1,8 @@
+# Python & Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.log
+scan_results_*.json
